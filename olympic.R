@@ -1,7 +1,4 @@
-# Name - Mahesh Balasaheb Raut
-# University of Guelph ID - 1227509
-# DATA*6200 F22 - Data Manipulation and Visualization
-# Final Project - Olympics Data Analysis using Shiny
+# Project - Olympics Data Analysis using Shiny
 # Link for dataset - https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results
 
 # Load Libraries
